@@ -1,0 +1,394 @@
+{
+  "url": "intellectual-property-lawyer-services-in-india",
+  "hidetars": true,
+  "criteoscript": true,
+  "pageTitle": "Affordable Online IP Lawyer in India - Get Legal Advice Now",
+  "canonical": true,
+  "canonicalUrl": "intellectual-property-lawyer-services-in-india",
+  "serviceId": "907",
+  "meta": {
+    "keyword": "legal advice,lawyers in india,online lawyer consultation,legal advice online,legal consulting,lawyer online,lawyer services,legal consultant services,legal help online,online legal advice india,lawyer advice online,law consultant,online legal consultation",
+    "description": "Looking for affordable legal advice on intellectual property matters in India? Hire an experienced online IP lawyer and safeguard your rights today. Contact us now."
+  },
+  "ogtags": [
+    {
+      "property": "og:title",
+      "content": "Talk to Lawyer: Online Legal Advice & Consultation in India"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Vakilsearch"
+    },
+    {
+      "property": "og:url",
+      "content": "https://vakilsearch.com/talk-to-a-lawyer-legal-advice"
+    },
+    {
+      "property": "og:description",
+      "content": "Find a trusted and experienced lawyer in minutes. Save time and money by not having to wait for weeks for an appointment. Expert legal advice starts at just ₹299."
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:locale",
+      "content": "IN"
+    }
+  ],
+  "twittercards": [
+    {
+      "name": "twitter:card",
+      "content": "summary"
+    },
+    {
+      "name": "twitter:site",
+      "content": "Vakilsearch"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Talk to Lawyer: Online Legal Advice & Consultation in India"
+    },
+    {
+      "name": "twitter:description",
+      "content": "Find a trusted and experienced lawyer in minutes. Save time and money by not having to wait for weeks for an appointment. Expert legal advice starts at just ₹299."
+    },
+    {
+      "name": "twitter:url",
+      "content": "https://vakilsearch.com/talk-to-a-lawyer-legal-advice"
+    }
+  ],
+  "content": {
+    "serviceId": "907",
+    "title": "Talk to Lawyer: Legal Advice & Online lawyer Consultation in India",
+    "subTitle": "Connect with an experienced and trusted lawyer in minutes. No need to wait weeks for appointments and no outrageous fees involved. Seek legal advice from industry legal experts starting from just ₹299.",
+    "formTitle": "Register to Talk to a Lawyer",
+    "thankYou": true,
+    "summary": {
+      "title": "How Talk to a Lawyer Works",
+      "description": "With Vakilsearch, you can connect with a lawyer in a simple, three-step process",
+      "steps": [
+        {
+          "title": "",
+          "description": "Tell us a little about your case so that we can find the best lawyer for you.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+        },
+        {
+          "title": "",
+          "description": "Connect with the lawyer via email, text, or phone.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step2.svg"
+        },
+        {
+          "title": "",
+          "description": "Get expert legal advice from expert lawyers at an exceptionally low cost.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step1.svg"
+        }
+      ]
+    },
+    "sections": {
+      "mainSection": {
+        "title": "Hire Top IP Lawyers & Protect Your Brand",
+        "benefits": [
+          "Expert IP lawyers assist you get your trademark, Patent, Copyright or Design registered",
+          "Guided assistance via chat throughout the process",
+          "Get a lawyer call back in less than 24 hours"
+        ],
+        "form": {
+          "workflow": "ttip-onboarding",
+          "submit": "Book an appointment now",
+          "additionalContent": {
+            "price": "₹499",
+            "text": "for a 30 min Lawyer Consultation"
+          },
+          "fields": {
+            "problemType": {
+              "options": [
+                {
+                  "label": "Trademark Registration",
+                  "value": "Trademark Registration"
+                },
+                {
+                  "label": "Trademark Objection",
+                  "value": "Trademark Objection"
+                },
+                {
+                  "label": "Trademark Hearing",
+                  "value": "Trademark Hearing"
+                },
+                {
+                  "label": "Trademark Opposition",
+                  "value": "Trademark Opposition"
+                },
+                {
+                  "label": "IP Due Diligence",
+                  "value": "IP Due Diligence"
+                },
+                {
+                  "label": "Design Registration",
+                  "value": "Design Registration"
+                },
+                {
+                  "label": "Design Objection",
+                  "value": "Design Objection"
+                },
+                {
+                  "label": "Design Hearing",
+                  "value": "Design Hearing"
+                },
+                {
+                  "label": "Patent Search",
+                  "value": "Patent Search"
+                },
+                {
+                  "label": "Patent Application",
+                  "value": "Patent Application"
+                },
+                {
+                  "label": "Patent FER Response",
+                  "value": "Patent FER Response"
+                },
+                {
+                  "label": "Patent Hearing",
+                  "value": "Patent Hearing"
+                },
+                {
+                  "label": "Copyright Registration",
+                  "value": "Copyright Registration"
+                },
+                {
+                  "label": "Copyright Discrepancy Response",
+                  "value": "Copyright Discrepancy Response"
+                },
+                {
+                  "label": "Trademark Infringement",
+                  "value": "Trademark Infringement"
+                },
+                {
+                  "label": "Copyright Infringement",
+                  "value": "Copyright Infringement"
+                },
+                {
+                  "label": "Design Infringement",
+                  "value": "Design Infringement"
+                },
+                {
+                  "label": "Patent Infringement",
+                  "value": "Patent Infringement"
+                },
+                {
+                  "label": "IP Litigation",
+                  "value": "IP Litigation"
+                }
+              ]
+            },
+            "language": {
+              "options": [
+                { "label": "English", "value": "English" },
+                { "label": "Hindi", "value": "Hindi" },
+                { "label": "Tamil", "value": "Tamil" }
+              ]
+            }
+          }
+        },
+        "process": [
+          {
+            "name": "Fill Out the Form",
+            "icon": "/form.svg"
+          },
+          {
+            "name": "Schedule an Appointment",
+            "icon": "/calendar.svg"
+          },
+          {
+            "name": "Make Payment",
+            "icon": "/payment.svg"
+          },
+          {
+            "name": "Talk to a IP lawyer",
+            "icon": "/phone.svg"
+          }
+        ],
+        "statistics": {
+          "totalReviews": "7500+",
+          "totalCases": "115500"
+        }
+      },
+      "areasOfExpertise": {
+        "title": "Areas of Expertise",
+        "areas": [
+          {
+            "title": "Trademark",
+            "description": "Registration of a trademark gives your company its face. With impeccable trademark advisory from our trademark lawyers, you can enhance your trademark protection from trademark search to <a style=\"color: #007bff\" href=\"https://vakilsearch.com/online-trademark-registration\">trademark registration</a> to trademark enforcement. ",
+            "services": [
+              "Receive tailor-made advice for your trademark needs",
+              "A tailor made advice as to the best way to apply the trademark increasing the chances of registration.",
+              "Get clear insights on selecting the right trademark and right business classification to apply the trademark in.",
+              "Develop a roadmap for protecting your trademark",
+              "Obtain legal representation for trademark objections, hearing and opposition/litigation.",
+              "Conduct thorough trademark searches",
+              "Ensure proper documentation for trademark registration",
+              "Obtain legal opinion in trademark disputes and the best ways to settle matters."
+            ]
+          },
+          {
+            "title": "Copyright",
+            "description": "Books, music, art, movies, and software are all protected by copyrights. Creative works such as movies, TV shows, photographs, choreography, and architecture can also be protected by copyright. In general, copyright protects any original work of authorship that has been recorded or stored in a tangible medium, such as writing, film, or video, or as a digital file. The copyright owner has the exclusive right to reproduce, distribute, perform, display, and create derivative works.",
+            "services": [
+              "Receive legal strategy, advice, and negotiation for  and copyright licence agreements",
+              "Identify what all aspects in your business can be copyrighted or are open to copyright theft.",
+              "Analyse complex copyright issues and related rights",
+              "Advisory as to the best category the copyright should be applied which will be economically beneficial and have higher chances of acceptance.",
+              "Receive representation & advisory  incases of copyright disputes and the best way ahead",
+              "Sending copyright infringement legal notices",
+              "Assist in drafting and filing of copyright application"
+            ]
+          },
+          {
+            "title": "Patent",
+            "description": "During the <a style=\"color: #007bff\" href=\"https://vakilsearch.com/patent-registration\">patent application</a> process, prior art is researched, patent applications are drafted, filed, and office actions are responded to. Along with these services, we advise on patent strength and validity, potential infringement issues, and licensing or selling patent rights. Our patent process helps our clients protect their intellectual property and maximise their commercial value.",
+            "services": [
+              "Advisory if the Patent is even applicable or not for their products",
+              "Patentability searches to determine if an invention can be patented",
+              "Drafting and filing patent applications with the patent office",
+              "Prosecuting and defending patent applications",
+              "Conducting patent infringement analysis",
+              "Negotiating and drafting patent licensing agreements",
+              "Conducting patent litigation",
+              "Advising clients on patent portfolio management and strategy",
+              "Patent invalidation and cancellation proceedings",
+              "Patent portfolio evaluation and due diligence"
+            ]
+          },
+          {
+            "title": "Design",
+            "description": "Design protection is provided for the shape, configuration, pattern, ornamentation, and colour composition of a product. Registration gives creators exclusive rights to use and reproduce their work, preventing others from copying or imitating.A successful registration allows creators to exploit their designs commercially, especially in fashion, furniture, electronics or any product based industries where design and aesthetics are critical.",
+            "services": [
+              "Conducting design searches to ensure originality of the design",
+              "Preparing and filing design applications with the Design Office",
+              "Prosecuting design applications through examination, objections and hearings",
+              "Conducting design infringement analysis and providing advice on design protection",
+              "Drafting and negotiating design license agreements",
+              "Conducting design litigation, including infringement, cancellation and invalidation proceedings",
+              "Advising clients on design portfolio management and strategy",
+              "Evaluating design portfolios and conducting due diligence",
+              "Assisting clients in enforcing their design rights."
+            ]
+          },
+          {
+            "title": "IP Due- Diligence",
+            "description": "Due diligence on intellectual property assets is a crucial process. It is commonly performed to identify risks and opportunities in M&A, investment, and licensing deals. Patents, trademarks, copyrights, trade secrets, design and other proprietary information are assessed through document reviews and interviews. Parties can make informed decisions about a deal by understanding the value and risks associated with IP assets.",
+            "services": [
+              "Analyse businesses if all the Intellectual Property in their business is applied or not.",
+              "Assist in identifying the IPs that need to be protected in a business",
+              "Research on the strength of the IPs of the companies and if the IP is outdated",
+              "Check if the IPs are duly renewed and timely maintained",
+              "Do a threat analysis of the infringers/violators of the IP in both national and international market.",
+              "Review relevant documents such as contracts, deeds and licences to check the IP rights for accuracy and completeness",
+              "Based on the findings, legal advice and recommendations are provided to help clients make informed transaction & IP decisions."
+            ]
+          },
+          {
+            "title": "IP Infringements",
+            "description": "IP infringements refer to unauthorised use or violation of someone's intellectual property rights. It can include using, selling, or reproducing a patented invention, trademark, or copyrighted work without permission or proper attribution. IP infringements can lead to legal action, such as lawsuits, and may result in damages or penalties. Protecting IP is crucial for businesses and individuals to maintain their competitive advantage and ensure that their creativity and innovation are recognized and rewarded.",
+            "services": [
+              "Represent clients in cases of an alleged infringement of their intellectual property rights",
+              "They analyse the facts and evidence to determine the strength of the case and advise clients on the best course of action",
+              "They may negotiate settlements or file lawsuits to protect their clients' intellectual property rights",
+              "Provide legal advice on protecting and managing intellectual property assets, including trademarks, patents, copyrights, and trade secrets."
+            ]
+          }
+        ]
+      },
+      "whyVakilsearch": {
+        "title": "Why Vakilsearch?",
+        "cards": [
+          {
+            "imageUrl": "/computer.svg",
+            "title": "Completely Online",
+            "description": "Our team of advisors will provide you with sound advice based on your needs. The entire procedure is very smooth and worry free."
+          },
+          {
+            "imageUrl": "/meet.svg",
+            "title": "Video Call",
+            "description": "We provide quick fixes to busy clients through video calls. While maintaining their privacy over the phone or via email."
+          },
+          {
+            "imageUrl": "/money.svg",
+            "title": "Cost-Effective",
+            "description": "No extra fees will be charged. Change lawyers quickly without having to pay more. While saving money, get excellent guidance"
+          }
+        ]
+      },
+      "reviews": {
+        "title": "Reviews",
+        "cards": [
+          {
+            "name": "Jayashree Gautam",
+            "description": "Vakilsearch offers the Top IP Lawyers services and are exceptional. The team is knowledgeable, efficient, and helped me navigate complex IP issues with ease. They provided valuable advice and helped me protect my intellectual property rights and save my brand.",
+            "imageUrl": "jayashree-gautham.jpg"
+          },
+          {
+            "name": "Aadit Shah",
+            "description": "I had a great experience working with Vakilsearch's Top IP Lawyers. Their team was professional, responsive, and provided me with expert guidance on trademarks, patents, and copyrights. They made the entire process easy and hassle-free.",
+            "imageUrl": "aadit-shah.jpg"
+          },
+          {
+            "name": "Rinky Sharma",
+            "description": "Vakilsearch's Top IP Lawyers were a great help to me and my business. Their team provided excellent support and helped me with everything from trademark registration to enforcing my IP rights. They saved me time and money and provided exceptional service. Highly recommend",
+            "imageUrl": "rinky-sharma.jpg"
+          }
+        ]
+      },
+      "lawyerTypes": {
+        "title": "IP Lawyer in India",
+        "description": "Intellectual property lawyers play a variety of important roles in the protection of intellectual property. In some instances, they act as advocates for clients in court proceedings. Additionally, they provide intellectual property advice to clients. <br/> <br/> It may be necessary to file a lawsuit and, if a settlement cannot be reached, go to court to resolve the issue. However, IP lawyers also assist in defending businesses and individuals against the over-assertion of intellectual property rights by so-called \"IP bullies,\" or businesses and brands that overly police their rights. An IP lawyer may interpret laws and regulations for clients, conduct research for the preparation of various documents, and communicate both orally and in writing with clients and other legal professionals."
+      },
+      "faq": {
+        "title": "Frequently Asked Questions (FAQs)",
+        "faqs": [
+          {
+            "question": "Who Are IP Lawyers?",
+            "answer": "IP (Intellectual Property) lawyers are legal professionals who specialise in advising clients on matters related to intellectual property law. They help clients protect, manage, and enforce their intellectual property rights, including patents, trademarks, copyrights, and trade secrets."
+          },
+          {
+            "question": "Are IP Lawyers Necessary?",
+            "answer": "If you have come up with something new or valuable, like an idea, invention, or creative work, it's important to protect it from others who may try to copy or steal it. Intellectual property (IP) lawyers are experts who can help you protect your ideas and creations and avoid getting into legal trouble with others who may have already created something similar. <br/><br/> If you're a business owner, entrepreneur, or someone with a valuable idea, an IP lawyer can help you navigate the complex legal system and ensure your rights are protected. They can help you register your intellectual property, like trademarks or patents, and enforce your rights if someone tries to copy or use them without your permission. In the long run, this can save you a lot of money and stress by avoiding costly legal battles and protecting your valuable creations. IP lawyers can also help with registering patents, trademarks, and copyrights, drafting licensing agreements, and representing clients in litigation."
+          },
+          {
+            "question": "What are duties of IP Attorneys?",
+            "answer": "The duties of an IP attorney include:<br/> <ul><li>Advising clients on intellectual property laws and rights</li><li>Conducting searches and due diligence to determine the availability and validity of intellectual property rights</li><li>Drafting and filing patent, trademark, and copyright applications</li><li>Drafting licensing agreements and negotiating the terms of these agreements</li><li>Advising clients on how to avoid infringing on others' intellectual property rights</li><li>Representing clients in litigation related to intellectual property rights</li><li>Keeping up-to-date with changes in intellectual property laws and regulations.</li></ul>"
+          },
+          {
+            "question": "What to Look for in an IP Attorney?",
+            "answer": "When looking for an IP attorney, consider the following: <br/> <ul><li><b>Relevant Experience:</b>Look for an attorney with experience in the specific area of intellectual property law relevant to your needs.</li><li><b>Reputation:</b> Look for an attorney with a good reputation in the legal community and with clients.</li><li><b>Communication Skills:</b> Look for an attorney who communicates clearly and effectively and is responsive to your needs.</li><li><b>Availability:</b> Look for an attorney who is available when you need them.</li><li><b>Fees:</b> Look for an attorney whose fees are reasonable and transparent.</li></ul>"
+          },
+          {
+            "question": "What are the things to Ask Your IP Lawyer?",
+            "answer": "<b>When meeting with an IP lawyer, consider asking the following questions:</b><ul><li>What experience do you have in this area of intellectual property law?</li><li>Have you handled cases like mine before? What were the outcomes?</li><li>What is your approach to managing intellectual property?</li><li>What is your fee structure? How do you charge for your services?</li><li>How will you keep me updated on my case?</li><li>How quickly do you typically respond to client inquiries?</li><li>Can you provide references or testimonials from past clients?</li></ul>"
+          }
+        ]
+      }
+    },
+    "recentUpdates": [],
+    "serviceTypes": {
+      "title": "",
+      "rows": [],
+      "cols": [],
+      "values": [],
+      "links": [""]
+    },
+    "nofreeconsultation": true
+  },
+  "onboarding": {
+    "timeIndex": 1
+  },
+  "eventTrack": {
+    "enabled": true,
+    "prefix": "ttl",
+    "eventDetails": {
+      "serviceId": "907"
+    }
+  },
+  "dashboardtm": true,
+  "languages": []
+}

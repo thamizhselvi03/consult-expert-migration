@@ -1,0 +1,89 @@
+.widgetBody {
+  position: fixed;
+  z-index: 100;
+  left: 32px;
+  bottom: 41px;
+  display: flex;
+  align-items: center;
+  min-width: 366px;
+  padding: 14px;
+  border: 1px solid #f0f1f3;
+  box-shadow: 0px 4px 22px rgba(168, 168, 168, 0.14);
+  border-radius: 8px;
+  background: #ffffff;
+}
+
+.userLogo {
+  width: 87px;
+  height: 87px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 15px;
+  font-weight: 600;
+  font-size: 46px;
+  line-height: 54px;
+  color: #d2ae76;
+  background: #ffefd6;
+  text-transform: uppercase;
+  border-radius: 6px;
+}
+
+.wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  & p {
+    margin: 0;
+  }
+
+  .userData {
+    margin-bottom: 10px;
+    padding: 2px 8px;
+    color: #606162;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    border-radius: 4px;
+    background: #f7f7f7;
+    span {
+      display: inline-block;
+      color: #231f20;
+      font-weight: 600;
+    }
+    .name::first-letter {
+      text-transform: uppercase;
+    }
+  }
+  .serviceData {
+    margin-left: 8px;
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #606162;
+  }
+  .timeData {
+    margin-left: 8px;
+    display: flex;
+    .time {
+      margin-right: 14px;
+      font-style: italic;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 16px;
+      color: #8f9397;
+    }
+    .verified {
+      display: flex;
+      align-items: center;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 17px;
+      color: #007aff;
+      img {
+        margin-right: 4px;
+      }
+    }
+  }
+}

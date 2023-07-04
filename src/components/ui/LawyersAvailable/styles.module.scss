@@ -1,0 +1,95 @@
+.flexContainer {
+    display: flex;
+    .leftSection {
+      width: 285px;
+      height: 40px;
+      background: #f7f7f7;
+      border-radius: 8px;
+      padding: 8px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      .imageContainer {
+        position: relative;
+        width: 66px;
+        height: 24px;
+      }
+    }
+    .dot {
+      width: 10px;
+      height: 10px;
+      background-color: #3eb837;
+      border-radius: 50%;
+      animation: blink 1s infinite;
+      margin-left: 13px;
+      margin-top: 6px;
+    }
+  
+    @keyframes blink {
+      50% {
+        opacity: 0;
+      }
+    }
+    .rightSection {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      padding: 8px 16px;
+      align-items: center;
+      justify-content: space-between;
+      width: 203px;
+      height: 40px;
+      background: #f7f7f7;
+      border-radius: 8px;
+      margin-left: 16px;
+      .orangeDot {
+        width: 10px;
+        height: 10px;
+        background-color: #fd7133;
+        border-radius: 50%;
+        margin-left: 13px;
+        margin-top: 6px;
+      }
+    }
+    .callsImage{
+      display: flex;
+    }
+    .subFlexContainer{
+      display: flex;
+      justify-content: space-between;
+    }
+    .textContainer{
+      font-weight: 600;
+      font-size: 14px;
+      color: #231F20;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .flexContainer {
+      .leftSection {
+        display: block;
+        max-width: 188px;
+        height: auto;
+        padding: 8px;
+      }
+      .rightSection {
+        display: block;
+        max-width: 148px;
+        height: auto;
+        padding: 8px;
+        .orangeDot{
+          margin-top: 4px;
+        }
+      }
+      .textContainer{
+        font-size: 12px;
+      }
+      .subFlexContainer{
+        padding-top: 4px;
+      }
+      .dot{
+        margin-top: 4px;
+      }
+    }
+  }

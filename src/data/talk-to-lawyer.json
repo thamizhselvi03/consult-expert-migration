@@ -1,0 +1,698 @@
+{
+  "url": "talk-to-a-lawyer-legal-advice",
+  "hidetars": true,
+  "criteoscript": true,
+  "pageTitle": "Legal Advice & Online lawyer Consultation Service India",
+  "canonical": true,
+  "canonicalUrl": "talk-to-a-lawyer-legal-advice",
+  "serviceId": "738",
+  "meta": {
+    "keyword": "legal advice,lawyers in india,online lawyer consultation,legal advice online,legal consulting,lawyer online,lawyer services,legal consultant services,legal help online,online legal advice india,lawyer advice online,law consultant,online legal consultation",
+    "description": "Connect with lawyers online in India for legal advice. We provide seamless lawyer consultation services and other legal help. Talk to a law consultant now!"
+  },
+  "ogtags": [
+    {
+      "property": "og:title",
+      "content": "Talk to Lawyer: Online Legal Advice & Consultation in India"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Vakilsearch"
+    },
+    {
+      "property": "og:url",
+      "content": "https://vakilsearch.com/talk-to-a-lawyer-legal-advice"
+    },
+    {
+      "property": "og:description",
+      "content": "Find a trusted and experienced lawyer in minutes. Save time and money by not having to wait for weeks for an appointment. Expert legal advice starts at just ₹299."
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:locale",
+      "content": "IN"
+    }
+  ],
+  "twittercards": [
+    {
+      "name": "twitter:card",
+      "content": "summary"
+    },
+    {
+      "name": "twitter:site",
+      "content": "Vakilsearch"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Talk to Lawyer: Online Legal Advice & Consultation in India"
+    },
+    {
+      "name": "twitter:description",
+      "content": "Find a trusted and experienced lawyer in minutes. Save time and money by not having to wait for weeks for an appointment. Expert legal advice starts at just ₹299."
+    },
+    {
+      "name": "twitter:url",
+      "content": "https://vakilsearch.com/talk-to-a-lawyer-legal-advice"
+    }
+  ],
+  "service": {
+    "service": {
+      "serviceName": "booked the lawyer consultation",
+      "url": "talk-to-a-lawyer-legal-advice"
+    }
+  },
+  "content": {
+    "serviceId": "738",
+    "title": "Talk to Lawyer: Legal Advice & Online lawyer Consultation in India",
+    "subTitle": "Connect with an experienced and trusted lawyer in minutes. No need to wait weeks for appointments and no outrageous fees involved. Seek legal advice from industry legal experts starting from just ₹299.",
+    "formTitle": "Register to Talk to a Lawyer",
+    "thankYou": true,
+    "summary": {
+      "title": "How Talk to a Lawyer Works",
+      "description": "With Vakilsearch, you can connect with a lawyer in a simple, three-step process",
+      "steps": [
+        {
+          "title": "",
+          "description": "Tell us a little about your case so that we can find the best lawyer for you.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+        },
+        {
+          "title": "",
+          "description": "Connect with the lawyer via email, text, or phone.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step2.svg"
+        },
+        {
+          "title": "",
+          "description": "Get expert legal advice from expert lawyers at an exceptionally low cost.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step1.svg"
+        }
+      ]
+    },
+    "sections": {
+      "mainSection": {
+        "title": "Legal Advice Online From Top Lawyers",
+        "hideYellowBar": true,
+        "benefits": [
+          " Affordable legal solutions from senior lawyers",
+          "Full litigation documentation and support",
+          "Guaranteed satisfaction or your money back"
+        ],
+        "form": {
+          "submit": "Book an appointment now",
+          "additionalContent": {
+            "price": "₹499",
+            "text": "for a 30 min Lawyer Consultation"
+          },
+          "slotsSection": {
+            "maintext": "FEW slot only left",
+            "subtext": "Lorem ipsum dolor sit amet, consecteturadipiscing elit Ut "
+          },
+          "fields": {
+            "problemType": {
+              "options": [
+                {
+                  "value": "Property & Civil Matters",
+                  "label": "Property & Civil Matters"
+                },
+                { "value": "Money Recovery", "label": "Money Recovery" },
+                {
+                  "value": "Matrimonial",
+                  "label": "Matrimonial",
+                  "price": "₹499"
+                },
+                {
+                  "value": "Business Consultation",
+                  "label": "Business Consultation"
+                },
+                { "value": "Notices", "label": "Notices" },
+                {
+                  "value": "Agreements & Documentations",
+                  "label": "Agreements & Documentations"
+                },
+                {
+                  "value": "Trademark Matters",
+                  "label": "IP/TM Matters"
+                },
+                { "value": "Others", "label": "Others" }
+              ]
+            },
+            "language": {
+              "options": [
+                { "label": "English", "value": "English" },
+                { "label": "Hindi", "value": "Hindi" },
+                { "label": "Tamil", "value": "Tamil" }
+              ]
+            }
+          }
+        },
+        "process": [
+          {
+            "name": "Fill Out the Form",
+            "icon": "/form.svg"
+          },
+          {
+            "name": "Schedule an Appointment",
+            "icon": "/calendar.svg"
+          },
+          {
+            "name": "Make Payment",
+            "icon": "/payment.svg"
+          },
+          {
+            "name": "Lawyer Will Call You",
+            "icon": "/phone.svg"
+          }
+        ],
+        "statistics": {
+          "totalReviews": "7500+",
+          "totalCases": "115500"
+        },
+        "lawyersAvailable": {
+          "lawyer": "+ Lawyers are online",
+          "weekend": "+ lawyers are available",
+          "calls": "ongoing calls"
+        }
+      },
+      "fixedWidget": {
+        "widgetContent": "Talk to Our Experienced Lawyers at Affordable Price -",
+        "widgetLink": "Book Your Slot Now @ just 499/-"
+      },
+      "lawyerProfile": {
+        "title": "Scholarly work by our panel of Consultants",
+        "profiles": [
+          {
+            "name": "Dhamini",
+            "cases": "Property, Corporate Advisor",
+            "imageUrl": "dhamini.svg",
+            "recentArticles": [
+              {
+                "text": "What are the stamp duty and taxation on the exchange of property",
+                "href": "https://vakilsearch.com/blog/what-are-the-stamp-duty-and-taxation-on-the-exchange-of-property/"
+              },
+              {
+                "text": "What type of contract is a consulting agreement",
+                "href": "https://vakilsearch.com/blog/what-type-of-contract-is-a-consulting-agreement/"
+              }
+            ]
+          },
+          {
+            "name": "Praveen P K",
+            "cases": "Property Verification, Due Diligence",
+            "imageUrl": "praveen-p-k.svg",
+            "recentArticles": [
+              {
+                "text": "How the Rupee Depreciation is Enticing NRIs to Invest in Indian Real Estate",
+                "href": "https://vakilsearch.com/blog/rupee-depreciation-reforms-returns-pull-nris-towards-indian-real-estate/"
+              },
+              {
+                "text": "How Can I Remove My Name from the Legal Heir Certificate in Tamil Nadu?",
+                "href": "https://vakilsearch.com/blog/how-can-i-remove-my-name-from-the-legal-heir-certificate-in-tamil-nadu/"
+              }
+            ]
+          },
+          {
+            "name": "Olivia",
+            "cases": "Corporate, Real Estate Due Diligence",
+            "imageUrl": "olivia.svg",
+            "recentArticles": [
+              {
+                "text": "Raising Money for Your Business: The Fundraising Startup Seed Round",
+                "href": "https://vakilsearch.com/blog/fundraising-startup-seed-round/"
+              },
+              {
+                "text": "5 Essential Tips for Creating A Successful Online Fundraising Campaign",
+                "href": "https://vakilsearch.com/blog/5-essential-tips-for-creating-a-successful-online-fundraising-campaign/"
+              }
+            ]
+          },
+          {
+            "name": "Taran",
+            "cases": "PIL, Corporate Consulting",
+            "imageUrl": "taran-kumar.svg",
+            "recentArticles": [
+              {
+                "text": "What is the Equity Clause in Consulting Agreement?",
+                "href": "https://vakilsearch.com/blog/equity-clause-in-consulting-agreement/"
+              },
+              {
+                "text": "What to Include in a Consulting Agreement",
+                "href": "https://vakilsearch.com/blog/what-to-include-in-a-consulting-agreement/"
+              }
+            ]
+          },
+          {
+            "name": "Mukund Raj",
+            "cases": "Legal Documentation, Fundraising",
+            "imageUrl": "mukund-raj.svg",
+            "recentArticles": [
+              {
+                "text": "The 5 Steps to Successfully Signing Your Franchise Agreement",
+                "href": "https://vakilsearch.com/blog/steps-to-sign-your-franchise-agreement/"
+              },
+              {
+                "text": "NDA, MSA, SOW, and SLA – Confidentiality Agreements Explained",
+                "href": "https://vakilsearch.com/blog/nda-msa-sow-and-sla-confidentiality-agreements/"
+              }
+            ]
+          },
+          {
+            "name": "Antim Amlan",
+            "cases": "Fintech, Investments",
+            "imageUrl": "antim-amlan.svg",
+            "recentArticles": [
+              {
+                "text": "How to raise funds for Startups?",
+                "href": "https://vakilsearch.com/blog/how-to-raise-funds-for-startups/"
+              },
+              {
+                "text": "Fundraising in Business",
+                "href": "https://vakilsearch.com/blog/fundraising-in-business/"
+              }
+            ]
+          },
+          {
+            "name": "Kavitha Natesan",
+            "cases": "Cheque Bounce, GST Consultant",
+            "imageUrl": "kavitha-natesan.svg",
+            "recentArticles": [
+              {
+                "text": "What is the Maximum Penalty and Punishment for Cheque Bounce?",
+                "href": "https://vakilsearch.com/blog/penalty-and-punishment-for-cheque-bounce/"
+              },
+              {
+                "text": "How Long Does it Take to Get the Court Judgment on a Cheque Bounce Case in India?",
+                "href": "https://vakilsearch.com/blog/court-judgment-on-cheque-bounce-case-in-india/"
+              }
+            ]
+          }
+        ]
+      },
+      "areasOfExpertise": {
+        "title": "Areas of Expertise",
+        "areas": [
+          {
+            "title": "Property & Civil Matters",
+            "description": "Vakilsearch has an extensive real estate practice with a team of experienced and talented property and civil lawyers. We advice and represent developers, investors, lenders, banks, corporate houses, property owners, contractors, landlords, and tenants in all aspects of property law, including legal and regulatory issues. We help developers and agents with <a href='https://vakilsearch.com/real-estate-property-registration' style=color:#0f81ff;>RERA registration</a> and compliance.",
+            "services": [
+              "Legal opinion or verification",
+              "Registrations",
+              "Inheritance, succession and family disputes",
+              "RERA and builder-buyer issues",
+              "Landlord and tenant issues",
+              "Wills and gifts"
+            ]
+          },
+          {
+            "title": "Money Recovery",
+            "description": "Lenders have legal options to pursue recovery of debts from a borrower. Under the Civil Procedure Code, a person can sue to recover money by sending the person a debt collection notice. Vakilsearch's financial experts can give you personalised solutions to help recover what is yours.",
+            "services": [
+              "<a href='https://vakilsearch.com/cheque-bounce-case' style=color:#0f81ff;>Cheque bounce</a> - Vakilsearch has the best cheque bounce Lawyers in India with 95% success rate",
+              "Civil suits",
+              "Insolvency and bankruptcy",
+              "Banking and non-banking financial institutions"
+            ]
+          },
+          {
+            "title": "Matrimonial",
+            "description": "Heavenly marriages are true. But, sometimes marriages fail. Vakilsearch's matrimonial lawyers can help you solve marriage problems mutually and legally. Hiring a professional matrimonial lawyer can ease divorce, alimony, and child custody cases. Our qualified, dedicated, and specialised matrimonial lawyers can handle your case in court quickly, better, and more effectively. Know how to apply for divorce with Vakilsearch.",
+            "services": [
+              "Mutual divorce",
+              "Contested divorce",
+              "Custody and guardianship",
+              "Restitution of conjugal rights",
+              "Maintenance and alimony"
+            ]
+          },
+          {
+            "title": "Business Consultation",
+            "description": "Business lawyers support business and its services. In fact, they align admin with legal needs and controls to define a company. Legal consultant advises businesses and individuals on legal matters. Vakilsearch's services were developed by lawyers with input from experts in management consulting, risk advisory, and tax management consulting.",
+            "services": [
+              "Setting up of business",
+              "Licenses and registrations required",
+              "Annual compliances",
+              "Raising funds for your business",
+              "Trademark registration"
+            ]
+          },
+          {
+            "title": "Notices",
+            "description": "<a href='https://vakilsearch.com/legal-notice' style=color:#0f81ff;>Legal notice</a> is drafted against complaints of personal or private issues, complaints against employer or employees, issues arising in the workplace, etc. The person who sends a legal notice online has to let the person who is being sued know that the notice is being sent. This means that legal notice by advocate is a warning given to someone before a lawsuit is filed against them.",
+            "services": [
+              "Employment issues",
+              "Insurance claims",
+              "Consumer complaints",
+              "Motor accidents claims",
+              "Commercial contracts",
+              "MoU",
+              "Rental agreement",
+              "Employment contract",
+              "Agreement review",
+              "Legal notice for recovery of money"
+            ]
+          },
+          {
+            "title": "Agreements & Documentation",
+            "description": "Things are always changing in business. A business works with a lot of different people like customers, business partners, suppliers, investors, co-founders, etc. Our legal experts will understand your situation and then write up documents or agreements with terms, conditions, and legal options if broken. To avoid legal problems, you should always have experts prepare or check your legal documents.",
+            "services": [
+              "Commercial contracts",
+              "MoU",
+              "Rental agreement",
+              "Employment contract",
+              "Agreement review"
+            ]
+          }
+        ]
+      },
+      "whyVakilsearch": {
+        "title": "Why Vakilsearch?",
+        "cards": [
+          {
+            "imageUrl": "/computer.svg",
+            "title": "Completely Online",
+            "description": "Our team of advisors will provide you with sound advice based on your needs. The entire procedure is very smooth and worry free."
+          },
+          {
+            "imageUrl": "/meet.svg",
+            "title": "Video Call",
+            "description": "We provide quick fixes to busy clients through video calls. While maintaining their privacy over the phone or via email."
+          },
+          {
+            "imageUrl": "/money.svg",
+            "title": "Save Money",
+            "description": "No extra fees will be charged. Change lawyers quickly without having to pay more. While saving money, get excellent guidance"
+          }
+        ]
+      },
+      "reviews": {
+        "title": "Reviews",
+        "cards": [
+          {
+            "name": "Sai Abhishek",
+            "description": "Got the best legal advice from Vakilsearch for my startup. Their team was knowledgeable and responsive, and they helped me navigate complex legal issues with ease. Highly recommended",
+            "imageUrl": "sai-abhishek.jpg"
+          },
+          {
+            "name": "Swetha",
+            "description": "The lawyers are professional, diligent, and kept me informed throughout my property dispute case. I appreciated their hard work and would definitely recommend them to anyone in need of legal assistance",
+            "imageUrl": "swetha.jpg"
+          },
+          {
+            "name": "Zoya Khan",
+            "description": "Lawyers from Vakilsearch really are the best. They helped me in drafting a legal notice and estate planning seamlessly. The team was patient, thorough, and provided practical advice tailored to my needs. Highly recommend their personalised service",
+            "imageUrl": "zoya-khan.jpg"
+          }
+        ]
+      },
+      "lawyerTypes": {
+        "title": "Types of Lawyers at Vakilsearch",
+        "types": [
+          {
+            "question": "Divorce Lawyers",
+            "answer": "Vakilsearch's best divorce lawyers will handle all aspects of filing, contesting, and handling cases in family courts and high courts under India's various divorce laws. They usually assist with the filing of maintenance, alimony, and child custody matters. <br/> <br/> The primary responsibility of a divorce lawyer is to assist the client with child custody issues, as this is one of the most important issues in any divorce case."
+          },
+          {
+            "question": "Labour Lawyers",
+            "answer": "A labour lawyer assists clients with legal issues arising from the employment relationship. They interpret and provide advice to clients on wage and hour laws, workplace safety, rest and break laws, disability and leave requirements, workplace harassment, discrimination, and wrongful termination. <br/> <br/> Vakilsearch's labour/employment lawyers can handle all aspects of employment-related litigation, including motion hearings, mediations, and depositions."
+          },
+          {
+            "question": "Property Lawyers",
+            "answer": "Real estate lawyers at Vakilsearch handle everything from a property's title search to dispute resolution. They perform due diligence on the property to evaluate whether the title is clear for development or sale. <br/> <br/> They also look for pending mortgages and litigation on the property in order to find a reasonable and amicable solution for their clients. They advise their clients on a wide range of property-related issues."
+          },
+          {
+            "question": "Family Lawyers",
+            "answer": "A family lawyer at Vakilsearch can assist in any legal issues between members of the same family. They represent clients in court in cases involving divorce, guardianship, adoption, domestic violence, and almost any other family law issue. <br/> <br/> A family lawyer can provide advice to a wide range of clients, including children and the elderly. Their advice on their rights and next steps varies greatly depending on the case."
+          },
+          {
+            "question": "Immigration Lawyers",
+            "answer": "An immigration lawyer's job in India is to provide pragmatic and strategic <em><strong>legal advice</strong></em> on immigration. Immigration attorneys at Vakilsearch are primarily responsible for assisting their clients with complex issues related to settling down as Indian citizens. <br/> <br/> Immigration lawyers serve and investigate a wide range of clients, including entrepreneurs looking to start a business in India, multinational corporations looking to open centres or branches in India, and families looking to start a new life in the country."
+          },
+          {
+            "question": "Banking Lawyers",
+            "answer": "Banking lawyers, like any other industry, enter the picture to anticipate and resolve vulnerabilities in transactions and potential disputes. Vakilsearch's banking lawyers will handle all your transactional paperwork, standardise documents, create and implement policies, answer questions, stay up to date on regulations, ensure compliance, and handle disputes. <br/> <br/> A banking and finance lawyer will either represent the borrower or the lender, and their primary role will be to handle the transactional aspects of arranging transactions. They must balance compliance by adhering to all applicable laws and regulations with mediation by assisting parties in reaching mutually satisfactory terms."
+          },
+          {
+            "question": "Consumer Court Lawyers",
+            "answer": "Vakilsearch's consumer protection attorneys handle a wide range of issues, including consumer fraud, product liability, false advertising, and other business 'scams,' such as delayed possession or completion of builder projects. With Vakilsearch, you can find a good consumer court advocate in India."
+          }
+        ]
+      },
+      "faq": {
+        "title": "Frequently Asked Questions (FAQs)",
+        "faqs": [
+          {
+            "question": "What kinds of questions can I ask?",
+            "answer": "You can ask about anything that has to do with your legal situation, like how a certain process works, what documents or forms you need, or what certain words or phrases mean. You can ask for advice, help with planning, or information about what might happen. You can also get a second opinion on your legal problem through advice sessions and document review services."
+          },
+          {
+            "question": "How can I keep my identity private while asking questions?",
+            "answer": "Your question and the lawyer's answer will be posted on our website, but we won't show who you are. We will NOT share your name or how to reach you. Lawyers who answer your question may get in touch with you to talk more about it."
+          },
+          {
+            "question": "When can I expect a reply to my question?",
+            "answer": "The specialisations of the lawyers on Vakilsearch are different and unique. We try to get your question to the right lawyer quickly so you can get a good answer. After you post your question, you can expect to hear back in 24 working hours. Lawyers on Vakilsearch are active and want to help you solve your legal problems, so you won't have to wait long to get answers."
+          },
+          {
+            "question": "How can I find out if someone answered my question?",
+            "answer": "When your question gets an answer, we'll let you know by email and text message."
+          },
+          {
+            "question": "How experienced are the lawyers who will give Consultation?",
+            "answer": "Vakilsearch only has verified and experienced consultation lawyer services. These lawyers work in High Courts and the Supreme Court. Depending on the area of concern you choose, you will be connected to a legal expert who will give you the best and right legal advice."
+          },
+          {
+            "question": "If I call again, can I talk to the same lawyer?",
+            "answer": "Yes. you can talk to the same lawyer again. When you call, you'll be able to choose the lawyer with whom you've already spoken. Vakilsearch is one of the top law firms in India."
+          },
+          {
+            "question": "Can I pick the lawyer I want to consult?",
+            "answer": "You can choose the lawyer you've already communicated to. Otherwise, our system chooses the lawyer based on their rating, practice area, your preferred language, and whether or not they are available."
+          },
+          {
+            "question": "Is there any reason to look for an online lawyer consultation?",
+            "answer": "There are many benefits of looking for a lawyer online, like saving time, making sure your privacy is protected, and not having a language barrier. You can choose an online lawyer who speaks your language on Vakilsearch. Also, when you choose a lawyer online, you can choose from a number of experienced lawyers with the click of a button."
+          },
+          {
+            "question": "In what languages can you get legal advice online?",
+            "answer": "On Vakilsearch, you can get online legal advice in the Indian language you speak best. You can get legal advice in English, Hindi, Telugu, Bengali, Marathi, Tamil, and Kannada."
+          },
+          {
+            "question": "When can you hire a labour lawyer?",
+            "answer": "Employees need a labour lawyer when they want to file a lawsuit against the management for any sort of injustice or exploitation. Apart from that, it is advisable to take help from them in case of negotiation or compromise during union strikes. These professionals would proceed legally and formally so that no allegation would be made against the union."
+          },
+          {
+            "question": "How much do mutual consent divorce lawyers near me charge?",
+            "answer": "While there is no fixed rate for lawyers in India, on average, a mutual divorce can cost anywhere between ₹5,000 and ₹50,000. All lawyers take a fee depending on their stature, experience, and skill. It doesn’t necessarily mean that expensive lawyers are great lawyers. Sometimes, brilliant young lawyers can do an excellent job for you at very affordable prices. It is all about meeting with the right people and choosing the proper counsel."
+          },
+          {
+            "question": "How to hire family lawyers with good specialisation?",
+            "answer": "You cannot hire a family lawyer with specialisation and experience in divorce cases for your businesses. Legal and medical professionals can provide their services based on their specialisations."
+          },
+          {
+            "question": "How do banking lawyers work?",
+            "answer": "Banking lawyers must work with specific financial service regulations and legislation that outline how banking clients must handle financial matters in order to comply with applicable laws."
+          },
+          {
+            "question": "What is the duty of immigration lawyer?",
+            "answer": "The job of an immigration lawyer is to provide pragmatic and strategic legal advice on immigration in India. Immigration attorneys are primarily associated with the responsibility of assisting their clients on complex issues with regards to settling down as citizens of India."
+          },
+          {
+            "question": "How to file an online divorce application?",
+            "answer": "If your divorce is uncontested, filing online may be the way to go. Getting divorced online is a common way for couples to end their marriage. Many companies provide divorce forms online. These websites prepare forms for you based on the information you provide."
+          },
+          {
+            "question": "How do you get a one-sided divorce?",
+            "answer": "The divorce is always filed by one spouse against the other, and upon service to the other party and his/her failure to appear, the case will be heard ex parte, or in the absence of the other spouse. If there are sufficient grounds and evidence, the court will grant divorce."
+          },
+          {
+            "question": "Can I hire a family court lawyer from a different state?",
+            "answer": "Yes, you can. However, it is recommended to hire a Family lawyer from the state where the case has been filed as the local lawyer will have better knowledge and understanding of the local laws and procedures followed in that particular state."
+          },
+          {
+            "question": "What exactly do corporate lawyers do?",
+            "answer": "A corporate attorney, or company lawyer, works on various legal issues related to corporate business practices. They often handle business, legal and financial functions for their clients. For instance, a corporate lawyer might be in charge of corporate taxes or appraise and oversee mergers and acquisitions."
+          }
+        ]
+      }
+    },
+    "recentUpdates": [],
+    "serviceTypes": {
+      "title": "",
+      "rows": [],
+      "cols": [],
+      "values": [],
+      "links": [""]
+    },
+    "nofreeconsultation": true
+  },
+  "onboarding": {
+    "variant": "ONE",
+    "timeIndex": 1,
+    "endHour": 20.5,
+    "timeRange": {
+      "Morning": {
+        "timestamps": [
+          {
+            "value": 10,
+            "minutes": 0,
+            "text": "10:00 AM - 10.30 AM"
+          },
+          {
+            "value": 10,
+            "minutes": 30,
+            "text": "10.30 AM - 11:00 AM"
+          },
+          {
+            "value": 11,
+            "minutes": 0,
+            "text": "11:00 AM - 11.30 AM"
+          },
+          {
+            "value": 11,
+            "minutes": 30,
+            "text": "11.30 AM - 12:00 PM"
+          }
+        ],
+        "Url": "https://assets.vakilsearch.com/live-images/time-morning.svg"
+      },
+      "Afternoon": {
+        "timestamps": [
+          {
+            "value": 12,
+            "minutes": 0,
+            "text": "12:00 PM - 12.30 PM"
+          },
+          {
+            "value": 12,
+            "minutes": 30,
+            "text": "12.30 PM - 01:00 PM"
+          },
+          {
+            "value": 13,
+            "minutes": 0,
+            "text": "01:00 PM - 1.30 PM"
+          },
+          {
+            "value": 13,
+            "minutes": 30,
+            "text": "1.30 PM - 02:00 PM"
+          },
+          {
+            "value": 14,
+            "minutes": 0,
+            "text": "02:00 PM - 2.30 PM"
+          },
+          {
+            "value": 14,
+            "minutes": 30,
+            "text": "2.30 PM - 03:00 PM"
+          },
+          {
+            "value": 15,
+            "minutes": 0,
+            "text": "03:00 PM - 3.30 PM"
+          },
+          {
+            "value": 15,
+            "minutes": 30,
+            "text": "3.30PM - 04:00 PM"
+          }
+        ],
+        "Url": "https://assets.vakilsearch.com/live-images/time-afternoon.svg"
+      },
+      "Evening": {
+        "timestamps": [
+          {
+            "value": 16,
+            "minutes": 0,
+            "text": "04:00 PM - 4.30PM"
+          },
+          {
+            "value": 16,
+            "minutes": 30,
+            "text": "4.30 PM - 05:00 PM"
+          },
+          {
+            "value": 17,
+            "minutes": 0,
+            "text": "05:00 PM - 5.30 PM"
+          },
+          {
+            "value": 17,
+            "minutes": 30,
+            "text": "5.30 PM - 06:00 PM"
+          },
+          {
+            "value": 18,
+            "minutes": 0,
+            "text": "06:00 PM - 6.30 PM"
+          },
+          {
+            "value": 18,
+            "minutes": 30,
+            "text": "6.30 PM - 07:00 PM"
+          },
+          {
+            "value": 19,
+            "minutes": 0,
+            "text": "07:00 PM - 7.30 PM"
+          },
+          {
+            "value": 19,
+            "minutes": 30,
+            "text": "7.30 PM - 08:00 PM"
+          }
+        ],
+        "Url": "https://assets.vakilsearch.com/live-images/time-afternoon.svg"
+      },
+      "Night": {
+        "timestamps": [
+          {
+            "value": 20,
+            "minutes": 0,
+            "text": "08:00 PM - 8.30 PM"
+          },
+          {
+            "value": 20,
+            "minutes": 30,
+            "text": "8.30 PM - 09:00 PM"
+          },
+          {
+            "value": 21,
+            "minutes": 0,
+            "text": "09:00 PM - 9.30 PM"
+          },
+          {
+            "value": 21,
+            "minutes": 30,
+            "text": "9.30 PM - 10:00 PM"
+          }
+        ],
+        "Url": "https://assets.vakilsearch.com/live-images/time-night.svg"
+      }
+    },
+    "expressCall": true,
+    "expressCallOnboarding": {
+      "expresstext": "Express Service | Get a call back in next 20 minutes at ₹999/-",
+      "expresslist": [
+        "Senior Lawyers",
+        "Quick Resolution",
+        "100% Confidentiality"
+      ],
+      "expressmobileHeaderText": "Express Service",
+      "expressMobileText": "Get a call back in next 20 minutes at ₹999/-",
+      "expresscta": "Get Call Now"
+    }
+  },
+  "eventTrack": {
+    "enabled": true,
+    "prefix": "ttl",
+    "eventDetails": {
+      "serviceId": "738"
+    }
+  },
+  "dashboardtm": true,
+  "languages": []
+}
