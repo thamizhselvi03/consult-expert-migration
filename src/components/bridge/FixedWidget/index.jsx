@@ -1,5 +1,4 @@
 import Image from "next/image";
-import styles from "./styles.module.scss";
 
 const FixedWidget = (props) => {
   const {
@@ -15,7 +14,7 @@ const FixedWidget = (props) => {
   }
   return (
     <>
-      <div className={styles.fixedMainSection}>
+      <div className="w-full h-[44px] py-[10px] px-0 bg-[#fdecec] text-center flex gap-[10px] justify-center items-center fixed top-[110px] z-[999] ">
         <div>
           <Image
             src="https://assets.vakilsearch.com/live-images/time-clock-widget.svg"
@@ -23,10 +22,10 @@ const FixedWidget = (props) => {
             height={24}
           />
         </div>
-        <div className={styles.widgetContentSection}>
-          <p className={styles.widgetContent}>{widgetContent}</p>
+        <div className="flex gap-2">
+          <p className="font-[600] leading-[19px] text-[#171717]">{widgetContent}</p>
           <div
-            className={styles.widgetLink}
+            className="font-[600] leading-[19px] text-[#e83e3e] underline cursor-pointer"
             onClick={() => {
               handleFocus();
             }}

@@ -89,9 +89,9 @@ const AreasOfExpertiseSection = (props) => {
             classNames={{
               ...classes,
               itemTitle: styles.accordionItemTitle,
-              control: styles.accordionControl,
-              label: styles.accordionLabel,
-              contentInner: styles.contentInner,
+              control:"bg-[#e6f2ff] border-b-[1px] border-[#007aff] text-[#000]",
+              label:"font-['Roboto] text-[20px] leading-[30px] text-[#231f20]",
+              contentInner:"pt-0 pb-4 md:pt-4 md:px-4 md:pb-0",
             }}
             styles={{
               label: { lineHeight: 1.5 },
